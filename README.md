@@ -844,7 +844,7 @@ git init
 git add .
 git commit -m "Initial commit - Deep Learning Signal Modulation Lab"
 git branch -M main
-git remote add origin https://github.com/a1creator284/deep-learning-am-modulation.git
+git remote add origin https://github.com/rajaryan1111/deep-learning-am-modulation.git
 git push -u origin main
 ```
 
@@ -927,7 +927,7 @@ That combination makes it strong for:
 # 26. Credits / Author
 
 GitHub username:
-**a1creator284**
+**rajaryan1111**
 
 If you use this project in a presentation, include:
 - your name
