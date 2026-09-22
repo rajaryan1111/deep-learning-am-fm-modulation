@@ -976,3 +976,8 @@ npx playwright install
 npx playwright test
 npx playwright show-report
 ```
+
+
+---
+
+**Project documentation:** [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md)
