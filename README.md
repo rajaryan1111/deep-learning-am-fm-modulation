@@ -1,5 +1,7 @@
 # Deep Learning Signal Modulation Lab
 
+[![CI](https://github.com/rajaryan1111/deep-learning-am-fm-modulation/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rajaryan1111/deep-learning-am-fm-modulation/actions/workflows/ci.yml)
+
 A complete **college project + portfolio project** for learning and demonstrating **AM modulation, FM modulation, PM modulation, signal analysis, and deep learning-based modulation understanding**.
 
 ---
