@@ -3962,7 +3962,7 @@ function App() {
                 </motion.section>
               </div>
             </div>
-          ) : (
+          ) : activePage === "backend" ? (
             <div className="grid items-start gap-6 xl:grid-cols-[minmax(0,1.03fr)_minmax(320px,0.97fr)]">
               <div className="space-y-6">
                 <motion.section
